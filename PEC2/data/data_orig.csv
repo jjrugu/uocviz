@@ -1,0 +1,47 @@
+"Udgifter til sundhed efter prisenhed, tid, aktør og funktion"
+
+" "," "," ","X.3 COVID-19-relaterede udgifter (indgår i sundhedsudgifter i alt)","X.3.1 COVID-19-relaterede udgifter til behandling","X.3.2 COVID-19-relaterede udgifter til test og smitteopsporing","X.3.3 COVID-19-relaterede udgifter til vaccination","X.3.4 COVID-19-relaterede udgifter til værnemidler ovs.","X.3.5 Andre COVID-19-relaterede sundhedsudgifter"
+"Løbende priser"
+" ","2021"
+" "," ","1. Hospitaler",2400,938,0,0,1203,258
+" "," ","1.1 Somatiske hospitaler",2400,938,0,0,1203,258
+" "," ","1.2 Psykiatriske hospitaler",0,0,0,0,0,0
+" "," ","1.3 Specialhospitaler",0,0,0,0,0,0
+" "," ","2. Boligfaciliteter med langtidspleje",0,0,0,0,0,0
+" "," ","2.1 Plejehjem/plejecentre, hospices, mv.",0,0,0,0,0,0
+" "," ","2.2 Botilbud for psykisk syge og misbrugere",0,0,0,0,0,0
+" "," ","2.9 Andre langtidspleje faciliteter",0,0,0,0,0,0
+" "," ","3. Ambulante aktører",11783,0,9852,1931,0,0
+" "," ","3.1 Praksissektoren",0,0,0,0,0,0
+" "," ","3.1.1 Almen praksis",0,0,0,0,0,0
+" "," ","3.1.2 Psykiatere",0,0,0,0,0,0
+" "," ","3.1.3 Andre speciallæger",0,0,0,0,0,0
+" "," ","3.2 Tandlægepraksis",0,0,0,0,0,0
+" "," ","3.3 Øvrige sundhedsklinikker (herunder psykologer, fysioterapeuter mm.)",0,0,0,0,0,0
+" "," ","3.4 Ambulante sundhedscentre",11783,0,9852,1931,0,0
+" "," ","3.5 Aktører på hjemmeplejeområdet",0,0,0,0,0,0
+" "," ","4. Udbydere af fritstående hjælpetjenester",0,0,0,0,0,0
+" "," ","4.1 Udbydere af transport og akutredning",0,0,0,0,0,0
+" "," ","4.2 Medicinske og diagnostiske laboratorier",0,0,0,0,0,0
+" "," ","4.9 Andre udbydere af hjælpetjenester",0,0,0,0,0,0
+" "," ","5. Apoteker og detailhandlere",62,0,0,0,62,0
+" "," ","5.1 Apoteker",62,0,0,0,62,0
+" "," ","5.2 Detailhandlere og andre udbydere af medicinske goder og hjælpemidler",0,0,0,0,0,0
+" "," ","5.9 Alle øvrige udbydere af lægemidler og medicinske goder",0,0,0,0,0,0
+" "," ","6. Aktører inden for sundhedsfremme og forebyggelse",3976,0,2160,1816,0,0
+" "," ","7. Sundhedsmyndigheder og sygeforsikringsselskaber",826,0,393,116,0,317
+" "," ","7.1 Offentlige sundhedsmyndigheder",826,0,393,116,0,317
+" "," ","7.3 Private sygeforsikringsselskaber",0,0,0,0,0,0
+" "," ","8. Resten af økonomien",0,0,0,0,0,0
+" "," ","8.1 Husholdninger som udbyder hjemmepleje",0,0,0,0,0,0
+" "," ","8.2 Alle andre industrier som yder sundhedstjenester som sekundær aktivitet",0,0,0,0,0,0
+" "," ","9. Resten af verden",0,0,0,0,0,0
+
+"I 2019 blev der lanceret en ny version af Landspatientregisteret "
+"(LPR3). Denne nye version medfører en metodisk ændring i "
+"definitionerne af indlæggelse og ambulante besøg på hospitalerne og "
+"medfører dermed et databrud mellem 2019 og 2020 på funktionerne 1.1 "
+"Behandling under indlæggelse og 1.3.1 Almen ambulant behandling.  Fra "
+"2023 udskilles COVID-19-relaterede udgifter ikke længere fra de "
+"samlede sundhedsudgifter. "
+

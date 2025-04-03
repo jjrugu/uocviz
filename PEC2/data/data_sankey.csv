@@ -1,0 +1,17 @@
+source,target,value
+total,tratamiento,938
+total,test_y_prevencion,12405
+total,vacunacion,3863
+total,equipamiento,1265
+total,otros,575
+tratamiento,hospital,938
+test_y_prevencion,ambulatorio,9852
+test_y_prevencion,empleados_prevencion,2160
+test_y_prevencion,autoridades,393
+vacunacion,ambulatorio,1931
+vacunacion,empleados_prevencion,1816
+vacunacion,autoridades,116
+equipamiento,hospital,1203
+equipamiento,farmacia,62
+otros,hospital,258
+otros,autoridades,317
