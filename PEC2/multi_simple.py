@@ -89,3 +89,4 @@ fig.update_layout(
 fig.update_xaxes(title_text="Mes")
 fig.update_yaxes(title_text="GWh")
 fig.write_image("output/multi.png")
+fig.show(renderer="browser")
