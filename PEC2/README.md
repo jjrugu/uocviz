@@ -1,2 +1,2 @@
-![Sankey](output/multi.png)
+![Multi](output/multi.png)
 ![Sankey](output/sankey.png)
